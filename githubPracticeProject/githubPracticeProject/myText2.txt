@@ -1,2 +1,0 @@
-this is ignore file.
-this is second line.
