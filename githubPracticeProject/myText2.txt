@@ -1,2 +1,3 @@
 this is ignore file.
 this is second line.
+this is the third line.
